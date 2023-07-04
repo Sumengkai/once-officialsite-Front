@@ -1,0 +1,50 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;  
+    height: 80vh;
+  }
+
+#tableSpace{
+    align-items: center;
+    text-align: center;
+    position: absolute;
+    top: 10%;
+}   
+#space{
+    height: 50px;
+}
+.space{
+    height: 50px;
+}
+#pt{
+    position: absolute;
+    top: 23%;
+    left: 30%;
+}
+#space2{
+    position: absolute;
+    top: 25%;
+    width:900px;
+}
+#subjectInput{
+    width:120%;
+    height: 30px;
+}
+#profileInput{
+    width:120%;
+    height: 300px;
+}
+#YoutubeInput{
+    width:120%;
+    height: 30px;
+}
+#YoutubeInput2{
+    width:120%;
+    height: 30px;
+}
+#creatButton{
+    position: absolute;
+    top: -65%;
+    left: 38%;
+}
